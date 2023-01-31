@@ -8,3 +8,8 @@ variable "env" {
     default = "dev"
   
 }
+variable "env" {
+    type = string
+    default = "dev"
+  
+}
